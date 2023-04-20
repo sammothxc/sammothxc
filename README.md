@@ -2,7 +2,7 @@
 - 👀 I’m interested in everything electronic, especially computers
 - 🌱 I’m currently learning clustered computing
 - 💞️ I’m looking to collaborate on anything arduino, computers, RPi, etc.
-- 📫 How to reach me: contact@samsgaragelab.tech
+- 📫 How to reach me: contact@samwarr.me
 
 <!---
 sammothxc/sammothxc is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
