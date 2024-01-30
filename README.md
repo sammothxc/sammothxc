@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @sammothxc
 - 👀 I’m interested in everything electronic, especially computers
 - 🌱 I’m currently learning clustered computing
-- 💞️ I’m looking to collaborate on anything arduino, computers, RPi, etc.
 - 📫 How to reach me: contact@samwarr.me
 
 <!---
