@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @sammothxc
 - 👀 I’m interested in everything electronic, especially computers
 - 🌱 I’m currently studying for my Computer Engineering degree
-- 📫 How to reach me: sdwarrior8@gmail.com
+- 📫 How to reach me: Discord @sammothxc
 
 <!---
 sammothxc/sammothxc is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
