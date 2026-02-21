@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sammothxc
 - 👀 I’m interested in everything electronic, especially computers
-- 🌱 I’m currently studying in my 1st year of the Cybersecurity (BS) degree program at BYU
+- 🌱 I’m currently studying in my 3rd year of the Cybersecurity (BS) degree program at BYU
 - 📫 How to reach me: Discord @sammothxc
 
 <!---
