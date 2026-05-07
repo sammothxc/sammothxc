@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @sammothxc
 - 👀 I’m interested in everything electronic, especially computers
 - 🌱 I’m currently studying in my 3rd year of the Cybersecurity (BS) degree program at BYU
-- 📫 How to reach me: Discord @sammothxc
+- 📫 How to reach me: cyberspace.online or Discord @sammothxc
 
 <!---
 sammothxc/sammothxc is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
