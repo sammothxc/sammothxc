@@ -1,9 +1,1 @@
-- 👋 Hi, I’m @sammothxc
-- 👀 I’m interested in everything electronic, especially computers
-- 🌱 I’m currently studying in my 3rd year of the Cybersecurity (BS) degree program at BYU
-- 📫 How to reach me: cyberspace.online or Discord @sammothxc
-
-<!---
-sammothxc/sammothxc is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I'm a student at BYU studying Cybersecurity. I work on a broad spectrum of projects involving both hardware and software, and everything between. My interests include self-hosting, retrocomputing, FPGAs, 3D printing/cnc, hardware hacking.
